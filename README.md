@@ -38,19 +38,22 @@ O projeto está estruturado da seguinte forma:
 
 Ao executar a aplicação, será exibido um menu no console com as seguintes opções:
 
-Bem-vindo ao Liter-Alura
+## Menu de Opções
 
-1 - Buscar livro por título e/ou autor (e adicionar ao banco próprio)
-2 - Buscar por nome do autor no repositório
-3 - Listar livros registrados
-4 - Listar autores registrados
-5 - Listar autores vivos em um determinado ano
-6 - Listar livros por idioma
-7 - Estatísticas (API)
-8 - Estatísticas (Repositório)
-9 - Curiosidades com anos
+### Bem-vindo ao Liter-Alura
 
-0 - Sair
+1. **Buscar livro por título e/ou autor** (e adicionar ao banco próprio)  
+2. **Buscar por nome do autor no repositório**  
+3. **Listar livros registrados**  
+4. **Listar autores registrados**  
+5. **Listar autores vivos em um determinado ano**  
+6. **Listar livros por idioma**  
+7. **Estatísticas (API)**  
+8. **Estatísticas (Repositório)**  
+9. **Curiosidades com anos**  
+
+0. **Sair**
+
 
 
 ## Configuração
