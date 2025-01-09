@@ -38,6 +38,7 @@ O projeto está estruturado da seguinte forma:
 
 Ao executar a aplicação, será exibido um menu no console com as seguintes opções:
 
+```bash
 ## Menu de Opções
 
 ### Bem-vindo ao Liter-Alura
