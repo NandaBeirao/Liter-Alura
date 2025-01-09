@@ -56,13 +56,3 @@ Ao executar a aplicação, será exibido um menu no console com as seguintes op�
 0. **Sair**
 
 
-
-## Configuração
-
-1. **Clonar o repositório:**
-
-```bash
-git clone <url_do_repositorio>
-cd liter-alura
-
-
